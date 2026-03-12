@@ -261,3 +261,4 @@ Internal project. © 2024 SelectFunders.
 **Status:** Phase 1 MVP Complete ✅  
 **Next:** Phase 2 (Content & CRM)  
 **Built with:** Python + Cloudflare Pages + GitHub Actions
+
